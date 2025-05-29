@@ -1,6 +1,6 @@
 
 
---## Hello there! 👋
+Hello there! 👋
 I'm *[Piyush Vishvakrma]*, a passionate Data Analyst with expertise in:
 
 ### 💻 Technical Skills & Tools
