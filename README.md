@@ -1,7 +1,7 @@
 
 
 Hello there! 👋
-I'm *[Piyush Vishvakrma]*, a passionate Data Analyst with expertise in:
+I'm *Piyush Vishvakrma*, a passionate Data Scientist with expertise in:
 
 ### 💻 Technical Skills & Tools
 - <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
