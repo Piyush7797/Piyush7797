@@ -10,10 +10,8 @@ Hello there! 👋
 
 - ![Data](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
-Check out my projects and feel free to connect with me!
-
 ---
-
+Check out my projects and feel free to connect with me!
 ### 💬 Let's Connect
 Connect with me on:
 - <a href="https://www.linkedin.com/in/piyush-vishvakrma-274962232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
