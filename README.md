@@ -12,7 +12,7 @@ Hello there! 👋
 
 💬 Ask me about ML, Python, Python Library's, Sql, PowerBI, Big Data, Cloud, Excel
 
-📫 How to reach me <a herf=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/df689002-d791-4026-bd16-9f08b6572874" />piyushvishvakrma7797@gmail.com
+📫 How to reach me <a herf=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/df689002-d791-4026-bd16-9f08b6572874" height="30"/>piyushvishvakrma7797@gmail.com
 
 ⚡ Fun fact: I mix my code like a DJ mixes tracks — smooth transitions, perfect drops, and sometimes unexpected remixes. 🎧
 </P>
