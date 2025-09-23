@@ -3,7 +3,7 @@
 Hello there! 👋
 <h1 >I'm Piyush Vishvakrma</h1>
 <h2>a passionate Data Scientist with expertise in:</h2>
-<P>
+
 🌱 I’m currently learning ML with AI
 
 🤝 I’m looking for help in Data Science
@@ -15,7 +15,6 @@ Hello there! 👋
 📫 How to reach me <i class="fa-regular fa-envelope">piyushvishvakrma7797@gmail.com</i>
 
 ⚡ Fun fact: I mix my code like a DJ mixes tracks — smooth transitions, perfect drops, and sometimes unexpected remixes. 🎧
-</P>
 
 
 
