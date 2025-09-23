@@ -13,6 +13,7 @@ I'm *Piyush Vishvakrma*, a passionate Data Scientist with expertise in:
 - <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="30"> 
 - <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white" height="30"> 
 - <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" height="30"> 
+- https://scikit-learn.org/stable/
 
 - ![Data](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
