@@ -1,8 +1,8 @@
 
 
 Hello there! 👋
-<h1 >I'm *Piyush Vishvakrma*</h1>,
-a passionate Data Scientist with expertise in:
+<h1 >I'm Piyush Vishvakrma</h1>
+<h2>a passionate Data Scientist with expertise in:</h2>
 
 ### 💻 Technical Skills & Tools
 - <img src="https://img.shields.io/badge/HTML-F16524?style=for-the-badge&logo=html5&logoColor=white" height="30"> 
