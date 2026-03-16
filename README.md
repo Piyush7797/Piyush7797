@@ -12,7 +12,7 @@ Hello there! 👋
 
 💬 Ask me about ML, Python, Python Library's, Sql, PowerBI, Big Data, Cloud, Excel
 
-📫 How to reach me <i class="fa-regular fa-envelope">piyushvishvakrma7797@gmail.com</i>
+📫 reach me at <i class="fa-regular fa-envelope">piyushvishvakrma7797@gmail.com</i>
 
 ⚡ Fun fact: I mix my code like a DJ mixes tracks — smooth transitions, perfect drops, and sometimes unexpected remixes. 🎧
 
